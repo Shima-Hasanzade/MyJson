@@ -1,0 +1,39 @@
+﻿{
+  "products": [
+    {
+      "id": 1,
+      "name": "ست دندونی",
+      "color": "صورتی",
+      "gender": "دخترانه",
+      "price": "120000",
+      "component0": "بادی",
+      "component1": "دامن",
+      "component2": "تل",
+      "component3": "پاپوش"
+    },
+    {
+      "id": 1,
+      "name": "ست دندونی",
+      "color": "آبی",
+      "gender": "پسرانه",
+      "price": "110000",
+      "component0": "بادی",
+      "component1": "کروات",
+      "component2": "پاپوش"
+    },
+    {
+      "id": 1,
+      "name": "ست دندونی",
+      "color": "آبی",
+      "gender": "پسرانه",
+      "price": "150000",
+      "component0": "بادی",
+      "component1": "پاپیون",
+      "component2": "پاپوش"
+    }
+  ],
+  "customers": [
+    {"username": "typicode", "password":  "123456", "totalprice": "500000", "totallike": "50"    },
+    {"username": "typicode", "password":  "987654", "totalprice": "100000", "totallike": "2"    }
+  ]
+}
